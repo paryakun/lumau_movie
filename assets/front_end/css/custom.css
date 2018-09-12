@@ -1,0 +1,137 @@
+
+.navbar-default {
+    background-color: #bc8e19;
+    border-color: #eeb552;
+}
+
+#main-content {
+    background-color: #a97d14;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fdd922;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #fdd922;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #8a6d3b;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #8a6d3b;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fdd922;
+    /* text-transform: uppercase; */
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fdd922;
+    border-color: #bc8e19;
+}
+
+.btn {
+    color: #333;
+    background-color: #fdd922;
+    border-color: #bc8e19;
+}
+
+.navbar-toggle{
+	background-color: #fdd922;
+}
+
+#footer {
+    background: #a97d14;
+    padding: 60px 0px;
+}
+#copyright {
+    padding: 20px 0px;
+    color: #a97d14;
+    background-color: #fdd922;
+    border-top: 1px solid #fdd922;
+}
+
+#copyright p a {
+    color: #a97d14;
+    font-size: 14px;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #8a6d3b;
+    border-color: #8a6d3b;
+}
+
+.block-title small {
+
+    color: #fff;
+ 
+}
+h1, h2, h3, h4, h5, h6, .sm-heading a {
+    color: #f5f5f5;
+}
+
+a {
+    color: #f5f5f5;
+}
+body {
+
+    color: #fdd319;
+
+}
+
+.btn-success.focus,
+.btn-success:focus {
+    color: #fff;
+    background-color: #8a6d3b;;
+    border-color: #8a6d3b;
+}
+.btn-success:active,
+.open>.dropdown-toggle.btn-success {
+    color: #fff;
+    background-color: #8a6d3b;;
+    border-color: #8a6d3b;
+}
+.btn-success.active.focus,
+.btn-success.active:focus,
+.btn-success.active:hover,
+.btn-success:active.focus,
+.btn-success:active:focus,
+.btn-success:active:hover,
+.open>.dropdown-toggle.btn-success.focus,
+.open>.dropdown-toggle.btn-success:focus,
+.open>.dropdown-toggle.btn-success:hover {
+    color: #fff;
+    background-color: #8a6d3b;
+    border-color: #8a6d3b
+}
+
+.breadcrumb li a {
+    color: #ffcc29;
+}
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #fff;
+    content: "→";
+}
+.breadcrumb li {
+    color: #ffcc29;
+}
+.page-title h1 {
+    margin: 0px;
+    font-size: 22px;
+    color: #f5f5e6;
+}
+.sidebar h1 a, .latest-post h1 a {
+    color: #fdd922;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+.sidebar p, .latest-post p {
+    color: #fdd922;
+}

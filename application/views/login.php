@@ -10,6 +10,7 @@
     <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.ico">
     <!-- CSS-->
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
      <!-- toast notification  Start-->
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/plugins/toastr/toastr.css">
       <script src="assets/js/jquery-2.1.4.min.js"></script>
